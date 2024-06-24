@@ -1,0 +1,127 @@
+body{
+    margin: 0px;
+    padding: 0px;
+
+    color: aliceblue;
+    font-size: 10rem;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+
+    background-image: url(clock1.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+
+
+
+.form-select{
+    /* text-align: center; */
+    font-size: 1.5rem;
+    width: 20%;
+
+    position: fixed;
+    right: 0;
+
+    cursor: pointer;
+}
+
+.clock-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100dvh;
+}
+
+
+#clock{
+    /* backdrop-filter: blur(5px); */
+    /* background-color: rgba(245, 245, 220, 0); */
+    background-image: linear-gradient(rgba(0,0,0,0.15),rgba(0,0,0,0.15));
+    width: 100%;
+}
+
+.calendar-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100dvh;
+}
+
+#calendar{
+    /* backdrop-filter: blur(5px); */
+    /* background-color: rgba(245, 245, 220, 0); */
+    background-image: linear-gradient(rgba(0,0,0,0.15),rgba(0,0,0,0.15));
+    width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    /* #clock-hour{
+        background-color: rgba(6, 84, 8, 0.623);
+    
+        border-radius: 10px;
+        
+        margin: 20px;
+        padding: 0px 10px;
+    }
+    
+    #clock-minute{
+        background-color: rgba(32, 172, 32, 0.623);
+    
+        border-radius: 10px;
+        
+        margin: 20px;
+        padding: 0px 10px;
+    }
+    
+    #clock-second{
+        background-color: rgba(136, 251, 123, 0.623);
+        
+        border-radius: 10px;
+    
+        margin: 20px;
+        padding: 0px 10px;
+    }
+    
+    .clock-24h{
+        background-color: rgba(178, 226, 206, 0.623);
+        
+        border-radius: 10px;
+    
+        margin: 20px;
+        padding: 0px 10px;
+    } */
